@@ -5,7 +5,7 @@ assignees:
   - maximilien
   - brian-jarvis-aws
   - Naomi-Wash
-projects: projects/1
+projects: "PQCA/1"
 body:
   - type: markdown
     attributes:
