@@ -18,9 +18,15 @@ nav_order: 1
 * [Brian Jarvis, Amazon Web Services Inc.][brian-jarvis-aws]
 * [Spencer Wilson, University of Waterloo][SWilson4]
 
+Emeritus:
+
+* [Thomas Bailleux][zadlg]
+
+
 [ashman-p]: https://github.com/ashman-p
 [brian-jarvis-aws]: https://github.com/brian-jarvis-aws
 [maximilien]: https://github.com/maximilien
 [yarkin-doroz]: https://github.com/ydoroz
 [sophieschmieg]: https://github.com/sophieschmieg
 [SWilson4]: https://github.com/SWilson4
+[zadlg]: https://github.com/zadlg
