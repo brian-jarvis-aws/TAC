@@ -1,4 +1,4 @@
- # Post-Quantum Cryptography Alliance Project Lifecycle Policy
+# Post-Quantum Cryptography Alliance Project Lifecycle Policy
 
 ## I. Overview
 This governance policy describes how an open source project (a “Technical Project”) can formally join the Post-Quantum Cryptography Alliance via the Project Proposal Process. It describes the Stages a project may be admitted under, the criteria and expectations for a given stage, and the acceptance criteria for a project to move from one stage to another. It also describes the Annual Review Process through which those changes will be evaluated and made. 
