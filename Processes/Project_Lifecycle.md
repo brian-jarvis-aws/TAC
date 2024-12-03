@@ -58,7 +58,7 @@ The following set of common acceptance criteria are expected for all project typ
 * 2 TAC sponsors to champion the project and provide mentorship as needed
 * A presentation at the meeting of the TAC
 * Have a charter document with an intellectual property policy that leverages open licenses, including, in the case of contributions of code, the use of one or more licenses approved as “open” by the Open Source Initiative. The staff of the Post-Quantum Cryptography Alliance will assist projects in preparing a technical charter following the Post-Quantum Cryptography Alliance’s standard template.
-* In the case of existing projects, an agreement to transfer the project name and electronic account assets (GitHub repo, social media accounts, domain names, etc.) to Linux Foundation Europe for the benefit of the Post-Quantum Cryptography Alliance.
+* In the case of existing projects, an agreement to transfer the project name and electronic account assets (GitHub repo, social media accounts, domain names, etc.) to Linux Foundation for the benefit of the Post-Quantum Cryptography Alliance.
 * Adopt the Post Quantum Cryptography Alliance Code of Conduct.
 * Upon acceptance, the project must list their stage/status prominently on their website/README
 
